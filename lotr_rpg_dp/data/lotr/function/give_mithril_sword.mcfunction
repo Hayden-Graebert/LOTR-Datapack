@@ -1,0 +1,1 @@
+give @s iron_sword[custom_data={lotr_item:"mithril_sword"},item_name='{"text":"Mithril Longsword","color":"aqua","italic":false}',attribute_modifiers={modifiers:[{type:"generic.attack_damage",amount:9,operation:"add_value",slot:"mainhand",id:"lotr:mithril_damage"}]}]
