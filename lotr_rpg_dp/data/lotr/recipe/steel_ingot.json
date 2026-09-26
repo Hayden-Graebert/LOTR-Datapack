@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "item": "minecraft:iron_nugget",
+    "components": {
+      "minecraft:custom_model_data": 1001
+    }
+  },
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "{\"text\": \"Steel Ingot\"}",
+      "minecraft:custom_model_data": 1002
+    }
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}
