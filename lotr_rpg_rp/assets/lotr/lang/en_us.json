@@ -12,5 +12,9 @@
   "block.minecraft.ancient_debris": "Adamant Ore",
   "item.minecraft.netherite_scrap": "Adamant Scrap",
   "item.minecraft.netherite_ingot": "Adamant Ingot",
-  "block.minecraft.netherite_block": "Block of Adamant"
+  "block.minecraft.netherite_block": "Block of Adamant",
+  
+  "item.minecraft.bee_spawn_egg": "Bronze Ingot",
+  "item.minecraft.allay_spawn_egg": "Electrum Ingot",
+  "item.minecraft.axolotl_spawn_egg": "Steel Ingot"
 }
