@@ -16,5 +16,8 @@
   
   "item.minecraft.bee_spawn_egg": "Bronze Ingot",
   "item.minecraft.allay_spawn_egg": "Electrum Ingot",
-  "item.minecraft.axolotl_spawn_egg": "Steel Ingot"
+  "item.minecraft.axolotl_spawn_egg": "Steel Ingot",
+  "item.minecraft.cat_spawn_egg": "Silver Ingot",
+  "item.minecraft.blaze_spawn_egg": "Sunsteel Ingot",
+  "item.minecraft.cave_spider_spawn_egg": "Celestial Bronze"
 }
