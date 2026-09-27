@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "I",
+    "S"
+  ],
+  "key": {
+    "I": {
+      "type": "minecraft:item",
+      "item": "minecraft:copper_ingot",
+      "components": { "minecraft:custom_data": "{bronze_ingot:1b}" }
+    },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:custom_data": "{bronze_gear:1b,bronze_sword:1b}",
+      "minecraft:custom_model_data": 101,
+      "minecraft:item_name": "{\"text\":\"Bronze Sword\",\"color\":\"#D27D2D\",\"italic\":false}",
+      "minecraft:max_damage": 220,
+      "minecraft:attribute_modifiers": [
+        {
+          "type": "generic.attack_damage",
+          "amount": 6.0,
+          "operation": "add_value",
+          "slot": "mainhand"
+        },
+        {
+          "type": "generic.attack_speed",
+          "amount": -2.4,
+          "operation": "add_value",
+          "slot": "mainhand"
+        }
+      ]
+    }
+  }
+}
