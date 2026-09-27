@@ -7,9 +7,6 @@
   ],
   "result": {
     "id": "minecraft:allay_spawn_egg",
-    "count": 2,
-    "components": {
-      "minecraft:item_name": "{\"Electrum Ingot\"}"
+    "count": 2
     }
   }
-}

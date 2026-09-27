@@ -2,13 +2,10 @@
   "type": "minecraft:blasting",
   "category": "misc",
   "ingredient": "minecraft:iron_ingot",
+  "cookingtime": 100,
+  "experience": 0.7,
   "result": {
     "id": "minecraft:axolotl_spawn_egg",
-    "count": 1,
-    "components": {
-      "minecraft:item_name": "{\"Steel Ingot\"}"
+    "count": 1
     }
-  },
-  "experience": 0.7,
-  "cookingtime": 200
-}
+  }

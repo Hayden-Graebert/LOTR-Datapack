@@ -8,9 +8,6 @@
   ],
   "result": {
     "id": "minecraft:bee_spawn_egg",
-    "count": 3,
-    "components": {
-      "minecraft:item_name": "{\"Bronze Ingot\"}"
+    "count": 3
     }
   }
-}
