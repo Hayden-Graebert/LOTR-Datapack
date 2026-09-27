@@ -1,3 +1,16 @@
 {
-  "enchantment.lotr.reach": "Reach"
+  "item.minecraft.lapis_lazuli": "Raw Silver",
+  "block.minecraft.lapis_ore": "Silver Ore",
+  "block.minecraft.deepslate_lapis_ore": "Deepslate Silver Ore",
+  "block.minecraft.lapis_block": "Block of Silver",
+  
+  "item.minecraft.emerald": "Raw Mithril",
+  "block.minecraft.emerald_ore": "Mithril Ore",
+  "block.minecraft.deepslate_emerald_ore": "Deepslate Mithril Ore",
+  "block.minecraft.emerald_block": "Block of Mithril",
+  
+  "block.minecraft.ancient_debris": "Adamant Ore",
+  "item.minecraft.netherite_scrap": "Adamant Scrap",
+  "item.minecraft.netherite_ingot": "Adamant Ingot",
+  "block.minecraft.netherite_block": "Block of Adamant"
 }

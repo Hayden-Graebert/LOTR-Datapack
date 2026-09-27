@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "id": "minecraft:bee_spawn_egg",
+    "count": 3,
+    "components": {
+      "minecraft:item_name": "{\"Bronze Ingot\"}"
+    }
+  }
+}

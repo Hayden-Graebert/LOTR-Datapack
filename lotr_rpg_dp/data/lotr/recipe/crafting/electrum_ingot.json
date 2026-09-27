@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gold_ingot",
+    "minecraft:lapis_lazuli"
+  ],
+  "result": {
+    "id": "minecraft:allay_spawn_egg",
+    "count": 2,
+    "components": {
+      "minecraft:item_name": "{\"Electrum Ingot\"}"
+    }
+  }
+}
