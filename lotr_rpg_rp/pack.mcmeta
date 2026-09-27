@@ -1,7 +1,6 @@
 {
   "pack": {
-    "pack_format": 34,
-    "supported_formats": {"min_inclusive": 34, "max_inclusive": 99},
+    "pack_format": 121,
     "description": "LOTR D&D Resource Pack"
   }
 }
