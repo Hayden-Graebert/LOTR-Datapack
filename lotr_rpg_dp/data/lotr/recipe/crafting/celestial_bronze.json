@@ -11,7 +11,7 @@
     "CCC"
   ],
   "result": {
-    "id": "minecraft:cave_spider_spawn_egg",
+    "id": "minecraft:cat_spawn_egg",
     "count": 8,
     "components": {
       "minecraft:enchantment_glint_override": true

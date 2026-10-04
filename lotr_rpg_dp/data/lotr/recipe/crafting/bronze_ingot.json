@@ -7,10 +7,7 @@
     "minecraft:gold_ingot"
   ],
   "result": {
-    "id": "minecraft:copper_ingot",
-    "count": 3,
-    "components": {
-      "minecraft:custom_data": "{bronze_ingot:1b}"
+    "id": "minecraft:bee_spawn_egg",
+    "count": 3
     }
   }
-}

@@ -13,6 +13,3 @@ execute as @a[tag=!selected_race,scores={race=1}] run function lotr:select_human
 execute as @a[tag=!selected_race,scores={race=2}] run function lotr:select_dwarf
 execute as @a[tag=!selected_race,scores={race=3}] run function lotr:select_elf
 execute as @a[tag=!selected_race,scores={race=4}] run function lotr:select_dragonborn
-
-# Passives
-execute as @a[nbt={SelectedItem:{components:{"minecraft:custom_data":{lotr_item:"mithril_sword"}}}}] run effect give @s minecraft:speed 1 0 true

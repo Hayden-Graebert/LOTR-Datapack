@@ -6,29 +6,30 @@
     "S"
   ],
   "key": {
-    "I": {
-      "type": "minecraft:item",
-      "item": "minecraft:copper_ingot",
-      "components": { "minecraft:custom_data": "{bronze_ingot:1b}" }
-    },
-    "S": { "item": "minecraft:stick" }
+    "I": "minecraft:bee_spawn_egg",
+    "S": "minecraft:stick"
   },
   "result": {
-    "id": "minecraft:stone_sword",
+    "id": "minecraft:copper_sword",
     "components": {
-      "minecraft:custom_data": "{bronze_gear:1b,bronze_sword:1b}",
-      "minecraft:custom_model_data": 101,
-      "minecraft:item_name": "{\"text\":\"Bronze Sword\",\"color\":\"#D27D2D\",\"italic\":false}",
-      "minecraft:max_damage": 220,
+      "minecraft:custom_data": { "bronze_sword": 1 },
+      "minecraft:item_model": "bronze_sword",
+      "minecraft:item_name": {
+        "text": "Bronze Sword",
+        "italic": false
+      },
+      "minecraft:max_damage": 190,
       "minecraft:attribute_modifiers": [
         {
-          "type": "generic.attack_damage",
-          "amount": 6.0,
+          "type": "minecraft:attack_damage",
+          "id": "minecraft:base_attack_damage",
+          "amount": 4.5,
           "operation": "add_value",
           "slot": "mainhand"
         },
         {
-          "type": "generic.attack_speed",
+          "type": "minecraft:attack_speed",
+          "id": "minecraft:base_attack_speed",
           "amount": -2.4,
           "operation": "add_value",
           "slot": "mainhand"
