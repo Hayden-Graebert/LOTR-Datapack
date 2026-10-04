@@ -3,6 +3,7 @@
   "block.minecraft.lapis_ore": "Silver Ore",
   "block.minecraft.deepslate_lapis_ore": "Deepslate Silver Ore",
   "block.minecraft.lapis_block": "Block of Silver",
+  "block.minecraft.raw_lapis_block": "Block of Raw Silver",
   
   "item.minecraft.emerald": "Raw Mithril",
   "block.minecraft.emerald_ore": "Mithril Ore",
@@ -13,11 +14,11 @@
   "item.minecraft.netherite_scrap": "Adamant Scrap",
   "item.minecraft.netherite_ingot": "Adamant Ingot",
   "block.minecraft.netherite_block": "Block of Adamant",
-  
-  "item.minecraft.copper_ingot": "Bronze Ingot",
-  "item.minecraft.allay_spawn_egg": "Electrum Ingot",
+
+  "item.minecraft.allay_spawn_egg": "Silver Ingot",
   "item.minecraft.axolotl_spawn_egg": "Steel Ingot",
-  "item.minecraft.cat_spawn_egg": "Silver Ingot",
   "item.minecraft.blaze_spawn_egg": "Sunsteel Ingot",
-  "item.minecraft.cave_spider_spawn_egg": "Celestial Bronze"
+  "item.minecraft.bee_spawn_egg": "Bronze Ingot",
+  "item.minecraft.cat_spawn_egg": "Celestial Bronze",
+  "item.minecraft.cave_spider_spawn_egg": "Electrum Ingot"
 }
