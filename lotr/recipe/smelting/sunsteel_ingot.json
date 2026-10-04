@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": "minecraft:axolotl_spawn_egg",
+  "cookingtime": 150,
+  "experience": 1.4,
+  "result": {
+    "id": "minecraft:blaze_spawn_egg",
+    "count": 1
+    }
+  }
